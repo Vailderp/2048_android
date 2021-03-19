@@ -16,7 +16,7 @@ public class S_TexturesMap {
 
     public Skin getElementByName(String name) {
         if (elements.get(name) == null) {
-            System.out.println("NULL saSADMAJSIDGHYUSAGUY!!!!!!!!!!!!!!!!!!!");
+            System.out.println("NULL");
         }
         return elements.get(name);
     }
